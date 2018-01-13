@@ -1,0 +1,17 @@
+logs/*
+!.gitkeep
+node_modules/
+tmp
+.DS_Store
+.idea
+app/override.js
+app/index.html
+*.swp
+*.iml
+app/bin/bundle*
+cert.pem
+key.pem
+localhost.p12
+localhost.pem
+localhost2.pem
+]
